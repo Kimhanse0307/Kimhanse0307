@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🎯 목표  
+AI와 머신러닝 기술을 활용해 실제 문제를 해결하고,  
+가치 있는 인사이트를 제공하는 개발자로 성장하는 것이 목표입니다.
+
+
 
 <h1 align="center">Hi 👋 I'm YourName</h1>
 
