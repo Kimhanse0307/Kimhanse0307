@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- 언어 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 90
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 
@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 
-- Email: yourname@example.com  
-- Blog: https://yourblog.com  
+- Email: 0307hanse@gmail.com  
+- Blog: https://velog.io/@hans33
 
