@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋 I'm Hanse Kim</h1>
+<h1 align="center">Hi 👋 I'm Hanse</h1>
 
 <p align="center">
   🌱 I’m currently learning ** AI **  
