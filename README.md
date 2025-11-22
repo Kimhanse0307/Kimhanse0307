@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Kimhanse0307/Kimhanse0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎯 목표  
-AI와 머신러닝 기술을 활용해 실제 문제를 해결하고,  
-가치 있는 인사이트를 제공하는 개발자로 성장하는 것이 목표입니다.
 
 
 
-<h1 align="center">Hi 👋 I'm YourName</h1>
+<h1 align="center">Hi 👋 I'm Hanse Kim</h1>
 
 <p align="center">
-  🌱 I’m currently learning **Backend / Frontend / AI / Mobile**  
+  🌱 I’m currently learning ** AI **  
   💻 I love building projects and solving problems  
   🚀 My goal: **Becoming a great developer**
 </p>
 
 ---
+
+👋 안녕하세요!  
+AI · 머신러닝 · 딥러닝 기반 데이터 분석에 관심을 가진 개발자입니다.  
+
+📌 주로 사용하는 기술  
+- Python  
+- Jupyter Notebook  
+- SQL  
+
+데이터로부터 의미 있는 인사이트를 발견하고,  
+머신러닝과 딥러닝 모델을 활용해 **가치를 만드는 것**에 흥미가 있습니다.
+
+
 
 ## 🛠 Tech Stack
 
