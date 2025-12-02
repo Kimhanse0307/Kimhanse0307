@@ -41,11 +41,12 @@ AI · 머신러닝 · 딥러닝 기반 데이터 분석에 관심을 가진 개�
 
 
 
+
 ## 🔗 Projects
 
-- 🌟 [Awesome Project 1](https://github.com/YourID/project1)
-- 🚀 [Awesome Project 2](https://github.com/YourID/project2)
-- 🧠 [Machine Learning Project](https://github.com/YourID/ml-project)
+- 🌟 [Project 1](https://github.com/Kimhanse0307/Frontier-project.git)
+- 🚀 [Project 2](학술제.ipynb)
+- 
 
 ---
 
