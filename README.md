@@ -44,8 +44,8 @@ AI · 머신러닝 · 딥러닝 기반 데이터 분석에 관심을 가진 개�
 
 ## 🔗 Projects
 
-- 🌟 [Project 1](https://github.com/Kimhanse0307/Frontier-project.git)
-- 🚀 [Project 2](학술제.ipynb)
+- 🌟 [Project 1]AI 기반 자산배분 모델 & 효율적 프론티어 챗봇 웹 서비스(https://github.com/Kimhanse0307/Frontier-project.git)
+- 🚀 [Project 2]AI 가맹점 조기경보 시스템 프로젝트(https://github.com/Kimhanse0307/work.git)
 - 
 
 ---
