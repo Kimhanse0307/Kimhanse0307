@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋 I'm Hanse</h1>
+<h1 align="center">Hi  I'm Hanse</h1>
 
 <p align="center">
   🌱 I’m currently learning ** AI **  
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-👋 안녕하세요!  
+안녕하세요!  
 AI · 머신러닝 · 딥러닝 기반 데이터 분석에 관심을 가진 개발자입니다.  
 
 📌 주로 사용하는 기술  
